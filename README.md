@@ -1,6 +1,8 @@
 # Mood Tracker Application
 
 A full-stack web application that helps users track their daily moods, visualize mood patterns, and receive personalized recommendations. The application uses sentiment analysis to analyze text input and provides mood insights through an interactive dashboard.
+![WhatsApp Image 2025-03-28 at 05 02 34_013791c0](https://github.com/user-attachments/assets/3db9eaa6-947f-4a52-bf75-e9b4fb1d095f)
+
 
 ## Features
 
